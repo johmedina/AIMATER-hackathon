@@ -1,0 +1,26 @@
+﻿substrate,system_structure,surface_layer,surface_miller_index,number_of_layers,surface_repetition,number_of_adsorbate1,adsorbate1,number_of_adsorbate2,adsorbate2,adsorption_site,adsorbate_coordinates,coverage_in_ml,number_of_atoms,neb_step,adsorption_energy
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,OT2,"[x,y,z] ",0.03,120,0,-0.077578951
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,OT3,"[x,y,z] ",0.03,120,0,-0.634679981
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,OT4,"[x,y,z] ",0.03,120,0,-0.104629788
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Ba1,"[x,y,z] ",0.03,120,0,-0.70608185
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Ba2,"[x,y,z] ",0.03,120,0,-0.114839723
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Ba3,"[x,y,z] ",0.03,120,0,-1.215227822
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Ba4,"[x,y,z] ",0.03,120,0,-1.274598107
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Bb1,"[x,y,z] ",0.03,120,0,-0.576044256
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Bb2,"[x,y,z] ",0.03,120,0,0.463705671
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Bb3,"[x,y,z] ",0.03,120,0,-1.266006123
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,Bb4,"[x,y,z] ",0.03,120,0,-0.984140947
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,H1,"[x,y,z] ",0.03,120,0,-0.830630735
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,H2,"[x,y,z] ",0.03,120,0,-1.903201213
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,H3,"[x,y,z] ",0.03,120,0,-0.755323739
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,H4,"[x,y,z] ",0.03,120,0,-1.820924971
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,TF1,"[x,y,z] ",0.03,120,0,-0.493571932
+Fe,BCC,Fe,710,4,5x5,1,CO,0,None,TF2,"[x,y,z] ",0.03,120,0,0
+Fe,BCC,Fe,110,6,3x3,1,CO,0,None,OT1,"[x,y,z] ",0.4,120,0,-2.059220715
+Fe,BCC,Fe,110,6,3x3,1,CO,0,None,H1,"[x,y,z] ",0.4,120,0,-0.712519736
+Fe,BCC,Fe,110,6,3x3,1,CO,0,None,Ba1,"[x,y,z] ",0.4,120,0,-1.751992633
+Fe,BCC,Fe,110,6,3x3,1,CO,0,None,TF1,"[x,y,z] ",0.4,120,0,-1.295135031
+Fe,BCC,Fe,110,6,3x3,9,CO,0,None,OT1,"[x,y,z] ",0.4,120,0,-0.862412848
+Fe,BCC,Fe,110,6,3x3,9,CO,0,None,H1,"[x,y,z] ",0.4,120,0,-0.897273936
+Fe,BCC,Fe,110,6,3x3,9,CO,0,None,Ba1,"[x,y,z] ",0.4,120,0,-0.38044362
+Fe,BCC,Fe,110,6,3x3,9,CO,0,None,TF1,"[x,y,z] ",0.4,120,0,-0.948808211
